@@ -1,0 +1,820 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strafforiados. The lieutenant's legend as it was first compared, and now published, according to the originall copie. Writ by his owne hand in the Tower.</title>
+            <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61722</idno>
+            <idno type="STC">Wing S5796</idno>
+            <idno type="STC">ESTC R219679</idno>
+            <idno type="EEBO-CITATION">99831133</idno>
+            <idno type="PROQUEST">99831133</idno>
+            <idno type="VID">35595</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35595)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2114:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strafforiados. The lieutenant's legend as it was first compared, and now published, according to the originall copie. Writ by his owne hand in the Tower.</title>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title on p. 5: The lieutenant's lachrymæ: or, His last good-night.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35595:1"/>
+            <pb facs="tcp:35595:1" rendition="simple:additions"/>
+            <p>
+               <hi>STRAFFORIADOS.</hi> THE LIEUTENANT'S <hi>LEGEND:</hi> As it was firſt compared, and now pub<g ref="char:EOLhyphen"/>liſhed, according to the <hi>Originall Copie.</hi>
+            </p>
+            <p>Writ by his owne hand in the <hi>Tower.</hi>
+            </p>
+            <q>
+               <bibl>SIDON.</bibl>
+               <l>Extincta eſt rabies parientis ſanguine.—</l>
+            </q>
+            <q>
+               <bibl>CLAUD.</bibl>
+               <l>—Fundatae in ſanguine Gentes</l>
+               <l>Non ſine teſte ruunt.—</l>
+            </q>
+            <p>Printed in the Yeare, 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35595:2"/>
+            <pb facs="tcp:35595:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome <hi>Rithms</hi> (for they merit not the ſtyle of <hi>Verſe,</hi> much leſſe the authority of ſo able and active a Pen) have been lately publiſhed, and un<g ref="char:EOLhyphen"/>juſtly fathered upon Earle <hi>STRAFFORD.</hi> And whence came theſe, but from thoſe bro<g ref="char:EOLhyphen"/>thell Broakers of falſe ware, who for baſe gaine will frontleſly ingage their penurious pen in any ementitious worke? Believe it from the mouth of him that dare avouch it, and who in Subjects of this kind, was to the knowledge of his <hi>Honour,</hi> while he lived, beſt intereſſed; that none of this ſort have at any time under his Name been heretofore divulged: which are not to be accounted fa<g ref="char:EOLhyphen"/>bulous, and worthily rejected; being ſo farre different from his expreſsive Character, as
+<pb facs="tcp:35595:3"/> they beare not the leaſt Semblance of ſo ex<g ref="char:EOLhyphen"/>quiſite a Limner.</p>
+            <p>As for his <hi>Ultimum Vale,</hi> it has been no leſſe ſimply then ſordidly acknowledged, as well by him who ementitiouſly writ it, as by him who did ſurreptitiouſly print it, that his <hi>Honour</hi> had no hand in it; for, advantage of the time, with hope of profit, was the one<g ref="char:EOLhyphen"/>ly bait that lur'd them to it. Laſtly, for thoſe late-diſperſed Copies of his <hi>Letters,</hi> you may gather what probability they beare of being his, by their <hi>diſtinct Characters.</hi>
+            </p>
+            <p>This here preſented, as it was penned by him, and tranſcribed by one neare and deare unto him, was his <hi>laſt Piece</hi> recommended to Poſterity: and for a <hi>Legacy</hi> left by <hi>HIM,</hi> then whom none ever was more ably endowed, more generally hated, in diſ-eſteem of the <hi>State</hi> more unhappily ſuffered, nor in the period of his ſuffering by diſcreet eyes more compaſsionately bemoned.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:35595:3" rendition="simple:additions"/>
+            <head>The LIEUTENANT's Legend.</head>
+            <epigraph>
+               <q>
+                  <l>Dat poenas laudata fides; gravis exitus altis</l>
+                  <l>Imminet Heröis; tuta myrica manes.</l>
+               </q>
+            </epigraph>
+            <lg>
+               <l>
+                  <seg rend="decorInit">E</seg>Ye me, ye <hi>mounting Cedars!</hi> once was I,</l>
+               <l>As you are, <hi>Great;</hi> rich in the Eſtimate</l>
+               <l>Of <hi>Prince</hi> and <hi>People;</hi> no malignant eye</l>
+               <l>Reflected on me; ſo ſecure my ſtate,</l>
+               <l>It felt no <hi>Rivals;</hi> then I fear'd no <hi>Grate</hi>
+               </l>
+               <l>Nor a <hi>Plebeian Storme;</hi> then my renowne</l>
+               <l>Took breath from <hi>Such</hi> as now would cry it down.</l>
+            </lg>
+            <lg>
+               <l>Honours came thick upon me, as if theſe</l>
+               <l>Meant with their weight to cruſh me; Ev'ry day</l>
+               <l>Rais'd me one <hi>Story</hi> higher; Land and Seas</l>
+               <l>Were then propitious; freſh as fragrant <hi>May,</hi>
+               </l>
+               <l>Sprung my enlivened Strength; where a decay</l>
+               <l>In <hi>Health, Wealth, Freedome, Popular eſteeme,</hi>
+               </l>
+               <l>Prove my late <hi>Sceane</hi> of <hi>State</hi> a <hi>golden Dreame.</hi>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:35595:4"/>
+            <lg>
+               <l>I had (unhappy is the accent <hi>had)</hi>
+               </l>
+               <l>A competence of State before I came</l>
+               <l>To this <hi>Surprizing grandeur;</hi> being clad</l>
+               <l>In <hi>native properties,</hi> till th' wing of Fame</l>
+               <l>Imp'd with a Countrey Zeale enlarg'd my aime</l>
+               <l>To high deſigns, producing ſuch Succeſſe,</l>
+               <l>" My Seeming bleſt eſtate eclyps'd my bleſſe.</l>
+            </lg>
+            <lg>
+               <l>That <hi>vocall Forrest</hi> or <hi>Plebeian vote</hi>
+               </l>
+               <l>Adjudge me worthy of the worthleſt death;</l>
+               <l>Yet this <hi>Mechanick rabble</hi> know me not</l>
+               <l>But by <hi>report,</hi> though their empoiſned breath</l>
+               <l>Steames ranke upon me, wiſhing but to ſheath</l>
+               <l>Their weapons in my bowells; thus am I</l>
+               <l>Become their Foe, and yet they know not why.</l>
+            </lg>
+            <lg>
+               <l>Go I by <hi>Water</hi> or a <hi>private Coach,</hi>
+               </l>
+               <l>I'm hooted at, blind fury findes no end;</l>
+               <l>The Style of <hi>Traitor</hi> welcoms my approach,</l>
+               <l>Whereto mine Eares a forc'd attention lend;</l>
+               <l>Yet, 'mongſt theſe <hi>Fiends</hi> I have one conſtant <hi>Friend,</hi>
+               </l>
+               <l>An un-amated loyall heart within me,</l>
+               <l>Which in theſe guſts ſhall peace of Conſcience win me.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Princes Declaration</hi> it was ſuch</l>
+               <l>As it Secur'd me from the doome of Death;</l>
+               <l>But on th' incenſed State it wrought not much,</l>
+               <l>Such were my Acts, I'm held unfit to breath,</l>
+               <l>Such was the <hi>Spleane</hi> purſude me underneath:</l>
+               <l>Trades-men and Women ſtill for juſtice crye,</l>
+               <l>" Wee cannot live, if <hi>Strafford</hi> do not dye.</l>
+            </lg>
+            <pb n="3" facs="tcp:35595:4" rendition="simple:additions"/>
+            <lg>
+               <l>The <hi>Judges</hi> their authentick Sentence paſſe,</l>
+               <l>And in <hi>two Charges</hi> vote me of High treaſon;</l>
+               <l>Which <hi>vote,</hi> as is conceived, moulded was</l>
+               <l>From their <hi>approching feares</hi> which blinded reaſon</l>
+               <l>And caus'd thoſe <hi>Elders</hi> to comply with ſeaſon.</l>
+               <l>For th' Safeſt way to ſhun thoſe ſhip-wrackt Shelves,</l>
+               <l>Was, as they held, t'ingratiate themſelves.</l>
+            </lg>
+            <lg>
+               <l>Thus do I live a dying life, immur'd</l>
+               <l>With cares more numerous then my Warders be;</l>
+               <l>Endanger'd moſt, when ſeeming moſt ſecur'd,</l>
+               <l>While <hi>Damocles</hi> keene Sword Hangs over me,</l>
+               <l>On publique Stage to act my tragedie:</l>
+               <l>Avant baſe Servile feare; Let Law proceed;</l>
+               <l>Though headleſse, yet I cannot loſe my head.</l>
+            </lg>
+            <lg>
+               <l>I know that my <hi>Redeemer</hi> lives; in him</l>
+               <l>My <hi>life</hi> and <hi>love</hi> are Seal'd; admit it then</l>
+               <l>A minute Spill what many yeares did Spin,</l>
+               <l>I ſhall reſume theſe lineaments againe,</l>
+               <l>Reſtor'd, refin'd, and purifide from Staine.</l>
+               <l>Crazy's my Cottage; no content at all</l>
+               <l>To Sojourne in a Lodging like to fall.</l>
+            </lg>
+            <lg>
+               <l>Now if thoſe <hi>Prudent Houſes</hi> hold't not fit</l>
+               <l>That I unto my WENTVVORTH WOOD-HOUSE goe,</l>
+               <l>To exerciſe my dayes in Holy Writ,</l>
+               <l>Or like a <hi>Recluſe</hi> in a Cell of woe,</l>
+               <l>To pray for thoſe I owe Devotion to;</l>
+               <l>Let th' Sentence of ſad Death come when it pleaſes,</l>
+               <l>
+                  <hi>The Axe's edge gives cure to all diſeaſes.</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:35595:5"/>
+            <lg>
+               <l>Erect your <hi>Scaffolds</hi> like <hi>Pyramides,</hi>
+               </l>
+               <l>Let my <hi>Corrivals</hi> my <hi>Appellants</hi> be;</l>
+               <l>Let <hi>Ship-wrackt Iudges</hi> that have <hi>Writs</hi>
+               </l>
+               <l>Become <hi>Spectators</hi> of my miſcrie,</l>
+               <l>Teare-poudred <hi>Sables</hi> cloathe my Family:</l>
+               <l>All this is nothing! a more glorious place</l>
+               <l>Arms me to look Death-terrors in the face.</l>
+            </lg>
+            <lg>
+               <l>And yet excuſe me that I thus conceave,</l>
+               <l>If theſe <hi>long Charges</hi> by me anſwered</l>
+               <l>Bring my <hi>weake body</hi> to untimely grave,</l>
+               <l>To after-ages 'twill be regiſtred,</l>
+               <l>Nay, by juſt priviledge authorized</l>
+               <l>That <hi>STRAFFORD</hi> Such a day and yeare did dye</l>
+               <l>For no <hi>High treaſon,</hi> but to <hi>Satisfie.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:35595:5" rendition="simple:additions"/>
+            <head>The LIEUTENANT's <hi>Lachrymae:</hi> OR, His Laſt Good-night.</head>
+            <epigraph>
+               <q>
+                  <l>No Glaſſe may more to life preſent Man's face,</l>
+                  <l>Then THIS, the frailty of a Great man's place.</l>
+               </q>
+            </epigraph>
+            <p>—Whence I gather,
+<q>
+                  <l>More uſefull to the Body's no Phyſitian,</l>
+                  <l>Then for a man to ponder his condition,</l>
+               </q>
+            </p>
+            <lg>
+               <l>
+                  <seg rend="decorInit">D</seg>Raw neer, give ear, and hear a Peer, whoſe miſery was ſuch,</l>
+               <l>As Envies ſtate, a great mans Fate, relentleſly did touch.</l>
+               <l>Once was I near the Prince's eare, and dear unto the State,</l>
+               <l>But now my bliſse reduced is to this ſad Tragick Fate.</l>
+            </lg>
+            <lg>
+               <l>There was a day when I bore ſway in publick Parlament;</l>
+               <l>Then who but I? which rais'd me high, to be <hi>York's</hi> Preſident;</l>
+               <l>Where Prince's love did ſo improve th' <hi>Inſtructions</hi> of that Court,</l>
+               <l>As it became a <hi>Chancery</hi> in confluence and reſort.</l>
+            </lg>
+            <lg>
+               <l>But Country-aire was my leaſt care, I muſt tranſplanted be,</l>
+               <l>And take my place t'inlarge my grace, of <hi>Ireland's</hi> Deputie;</l>
+               <l>Where, as tis ſed, no Venom bred, ſo 'twas my glorious ſtrife</l>
+               <l>To cenſure ſuch who throve too much with venom in their life.</l>
+            </lg>
+            <pb n="6" facs="tcp:35595:6" rendition="simple:additions"/>
+            <lg>
+               <l>None were ſo high but would comply with me and my commands,</l>
+               <l>For elſe were they forc'd to obey, and periſh in my hands.</l>
+               <l>None durſt devoure the Widow, Poore, nor ſeize on other's right,</l>
+               <l>But I brought in to ſcourge his ſin, and cruſh him with my might.</l>
+            </lg>
+            <lg>
+               <l>But what's all this? I did amiſse, for ſo the Commons ſay;</l>
+               <l>All this did tend to mine owne end, and profit ev'ry way.</l>
+               <l>My <hi>Port</hi> advanc'd, my <hi>State</hi> inhanc'd, and my <hi>Revenues</hi> too,</l>
+               <l>The <hi>Common Laws</hi> I did diſpoſe, and wreſt them God knowes how.</l>
+            </lg>
+            <lg>
+               <l>Laws life did rest within my breſt, my will was ſtill my Law,</l>
+               <l>No State could be, if't neighbour'd me, ſecured from a flaw;</l>
+               <l>I could diſpence with Acts of Bench, and diſ-annull their Courſe,</l>
+               <l>None ever liv'd, leſſe lik'd, leſſe lov'd, in mens opinion worſe.</l>
+            </lg>
+            <lg>
+               <l>FIRST <note n="*" place="margin">Theſe pretenſive Crimes in the Articles of his Triall; were with much vehemency preſſed: All which, were by his HONOUR, to the great Satiſfaction of his Audience, with a ſerious ingenuity cleared.</note> I did fleece our <hi>Merchandize,</hi> and grievous impoſts raiſe,</l>
+               <l>For private gaine, I truckt with <hi>Spaine;</hi> and with injurious layes</l>
+               <l>Impair'd mens state t' increaſe their hate, no pitty did I render;</l>
+               <l>Thus with all ill I'm twitted ſtill, my good deeds none remember.</l>
+            </lg>
+            <lg>
+               <l>I ſhould report in publick Court with an imperious aw</l>
+               <l>That th' <hi>finger</hi> of the <hi>King</hi> ſhould bring command ore th' <hi>Loines</hi> of <hi>Law;</hi>
+               </l>
+               <l>Whereas a <hi>Knight</hi> to do me right that teſtat did evince:</l>
+               <l>For I did ſay, <hi>Lawes loines</hi> might ſway the <hi>finger</hi> of the Prince.</l>
+            </lg>
+            <lg>
+               <l>The Scottiſh Charge in trifles large h'as taxt me in like ſort,</l>
+               <l>If th' Iſland here invaded were, the State might thanke me for't;</l>
+               <l>For I an Army had prepar'd their Kingdome to ſubdue,</l>
+               <l>And to bring in that <hi>Man</hi> of <hi>Sin</hi> with his Papistick crue.</l>
+            </lg>
+            <pb n="7" facs="tcp:35595:6" rendition="simple:additions"/>
+            <lg>
+               <l>When all men knew I was a foe to Superſtition ſtill,</l>
+               <l>And in the North brought Romiſts forth and wrought them to my will;</l>
+               <l>When they did pay ſo much as they would gladly been content</l>
+               <l>The <hi>Penall Statutes</hi> to obey, to quit their annuall rent.</l>
+            </lg>
+            <lg>
+               <l>Their City <hi>Garaway</hi> did ſay, that of mine owne accord</l>
+               <l>When He came in I mov'd the King to take away <hi>his Sword;</hi>
+               </l>
+               <l>Which ever ſince did ſo incenſe that <note n="*" place="margin">The City-councell.</note> awfull Bench as theſe</l>
+               <l>Joyntly deny, unleſſe I dye, to pay their Subſidies.</l>
+            </lg>
+            <lg>
+               <l>In a <note n="*" place="margin">Cle<g ref="char:EOLhyphen"/>anthes.</note> borrow'd name to my defame ſome ſay I wrote Love-letters,</l>
+               <l>To winde youth in licentious Sin made fast with golden fetters;</l>
+               <l>Which purchaſe got, I feared not ſtrange <hi>lofty</hi> Acts to make,</l>
+               <l>At th' Sonnes deſire againſt his Sire for his <hi>Clorinda's</hi> ſake.</l>
+            </lg>
+            <lg>
+               <l>There is no crime at any time wherewith I'm not impeached,</l>
+               <l>My hands in blood, no action good, my thoughts at treaſon reached.</l>
+               <l>What joy then here when all men beare ſuch malice to my name?</l>
+               <l>Should <hi>Juſtice</hi> reſt, with <hi>joynt proteſt,</hi> they would diſplay my ſhame.</l>
+            </lg>
+            <lg>
+               <l>They ſay I ſtay and ſtoppe the way of <hi>Iſſues</hi> that are made,</l>
+               <l>And that Iv'e ſought by <hi>poyſons</hi> brought to leave my Spirits dacaid;</l>
+               <l>Or that I make meanes to <hi>eſcape</hi> in counterfeat diſguiſe,</l>
+               <l>When never I, by th' Death I dye, dream'd ſuch an enterpriſe.</l>
+            </lg>
+            <lg>
+               <l>From th' <hi>Tower</hi> I'm ſent to th' <hi>Parliament</hi> with Garriſons ſurrounded,</l>
+               <l>Yet I purſude by th' multitude might be ſurpriz'd and wounded;</l>
+               <l>Peece-meale theſe ſwear they would me teare, ſhould Train-band me ſurren<g ref="char:EOLhyphen"/>der,</l>
+               <l>Were I as cleare as ever were they'd vote me an offender.</l>
+            </lg>
+            <lg>
+               <l>Now at the Barre as Felons are, must I hold up my hand,</l>
+               <l>And thoſe my ſtrong Accuſers be who ſtood at my command.</l>
+               <l>" A breaker o'th laſt Parlament, an Inſtrument of warre,</l>
+               <l>" Subverter of the Common-Laws, a cloſe Adulterer.</l>
+            </lg>
+            <pb n="8" facs="tcp:35595:7" rendition="simple:additions"/>
+            <lg>
+               <l>A Cruell Tyrant, and what's worſe, if worſer can be found,</l>
+               <l>No <hi>Snake</hi> may be compar'd to me in ſuch a <note n="*" place="margin">Meaning <hi>Ireland;</hi> which (as is reported) by the pious Teares, and Prayers of <hi>Saint Patrick,</hi> became freed of all venemous Creatures. <hi>Vid. Annal Arden. Inſul.</hi>
+                  </note> 
+                  <hi>Snakeleſſe</hi> ground;</l>
+               <l>See, See our humane frailty! what fading honour's worth,</l>
+               <l>When th' Evning may ore-cloud that day the cleareſt Morn brought forth?</l>
+            </lg>
+            <lg>
+               <l>The <hi>Houſe</hi> of <hi>Commons</hi> voted my High Treaſon long agoe,</l>
+               <l>And they do grutch, their hate is ſuch, the <hi>High-Houſe</hi> does not ſo;</l>
+               <l>And ſome do gueſſe they do not this for any love to me,</l>
+               <l>The reaſon why, if I ſhould dye <hi>ſecure</hi> they could not be.</l>
+            </lg>
+            <lg>
+               <l>But now <hi>both Houſes</hi> are agreed that I ſhould loſe my head,</l>
+               <l>
+                  <hi>Tower-hill</hi> muſt be a Stage for me, where Stories may be read,</l>
+               <l>That never Man from greatneſſe came to ſuch calamity,</l>
+               <l>Nor in high place bore more diſgrace then <hi>Irelands</hi> Deputy.</l>
+            </lg>
+            <lg>
+               <l>Farewell, farewell; now to my Cell, from thence unto the Stage,</l>
+               <l>Where th' <hi>Hatchet</hi> muſt prove <hi>honour</hi> duſt, and pay my <hi>Service</hi> Wage;</l>
+               <l>Relent hard heart what ere thou art, when thou ſhalt ſee my fall,</l>
+               <l>What hapned mee may fall to thee, do Juſtice then to all.</l>
+            </lg>
+            <lg>
+               <l>Farewell Deare Spouſe, my antient Houſe, my tender Children too,</l>
+               <l>Though Law on me inflicted be, it takes no hold of you.</l>
+               <l>My blood though ſpilt, yee'r free from guilt, the Prince will doe ye right,</l>
+               <l>Whoſe Crowne Heav'ns bleſſe with all ſucceſſe: And ſo vaine World good<g ref="char:EOLhyphen"/>night.</l>
+            </lg>
+         </div>
+         <div type="valediction">
+            <pb n="9" facs="tcp:35595:7" rendition="simple:additions"/>
+            <head>A FATHERS FAREWELL.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Yee my <hi>conſtant cares,</hi> but <hi>unconſtant com<g ref="char:EOLhyphen"/>forts;</hi> Let me turn to you, before I turne to earth! O, to what end did I take care to waſte my ſelfe, for that which others without care intend to waſte? Why ſhould I become ſo <hi>fooliſhly frugall,</hi> as to make my <hi>Heire</hi> ſick of a Father; riot in his Funerall; and in his death to act to life the part of a Prodigall? O how many children had far'd well in the world, had their <hi>Parents</hi> ſet their hearts leſſe on the world! <note place="margin">A Worldlings common Ob<g ref="char:EOLhyphen"/>jection.</note> Oh, but who <hi>provides</hi> not for his <hi>Family,</hi> is <hi>worſe</hi> then an <hi>Infidell!</hi> Much more for his <hi>Poſterity,</hi> being the <hi>deareſt</hi> of his <hi>Family,</hi> the <hi>neareſt</hi> of his <hi>Meniey.</hi> O my Indulgence! What a <hi>diſcomfort</hi> haſt thou occaſioned to me in the One, what a <hi>diſorder</hi> in the Other! I was leſſoned by a <hi>Good Father,</hi> 
+               <note place="margin">Auguſt. Med. <hi>cap.</hi> 1.</note> to make nothing a greater ſtranger to me in the way of my <hi>Pilgrimage,</hi> then towards my <hi>Fa<g ref="char:EOLhyphen"/>miliars</hi> impiety; towards my <hi>Servants</hi> ſeverity; to<g ref="char:EOLhyphen"/>wards my <hi>Neighbours</hi> extremity. Which Leſſon, though I have not learned as well as I ſhould, yet have I labour'd to obſerve it as well as I could. Meane time,
+<pb n="10" facs="tcp:35595:8"/> while I look'd upon <hi>mine owne,</hi> I found my too tender Nature of ſuch a temper, as it needed no ſuch direction. Before I was a <hi>Father,</hi> I muſed much how ſo wiſe a Sage as <hi>Ageſilaus,</hi> could ſo ſtrangely play the <hi>Childe,</hi> as to ride on <hi>Hobby-horſe</hi> with his Children. But remem<g ref="char:EOLhyphen"/>bring his Anſwer, I could not chooſe but approve an indiſcreet act, proceeding from ſo affectionate a Nature: <hi>Doe not condemne me of Folly, till you have Children of your owne.</hi>
+            </p>
+            <p>O <hi>Nature,</hi> how <hi>ſwift</hi> art thou in thy <hi>deſcending!</hi> how <hi>ſlow</hi> in thy <hi>aſcending!</hi>
+            </p>
+            <p>
+               <hi>Henry</hi> the Second, then whom none more happy in his Youth; more unfortunate in his Age; having obſer<g ref="char:EOLhyphen"/>ved the mutability of his condition, how hee could not be more numerous in <hi>yeares,</hi> then he was ſurpriz'd with <hi>aged cares;</hi> being eſteemed leaſt by thoſe who ſhould reverence him moſt, deviſed this <note n="*" place="margin">Henricus aeta<g ref="char:EOLhyphen"/>te confectus; quo tempore a Libe<g ref="char:EOLhyphen"/>ris graviſſimis affectus fuerit odiis; Emblema ſibi contraxit ab Aquila, quatuor pullis adumbra<g ref="char:EOLhyphen"/>to; quorum duo oculos A<g ref="char:EOLhyphen"/>quilae eruentes; alii duo ungui bus erant velli<g ref="char:EOLhyphen"/>cantes.</note> Embleme, to repre<g ref="char:EOLhyphen"/>ſent his Parentall affliction: An <hi>Eagle</hi> perſonating <hi>Him<g ref="char:EOLhyphen"/>ſelfe,</hi> with <hi>foure young ones,</hi> preſenting his <hi>foure Sonnes;</hi> two whereof were ever <hi>billing</hi> and <hi>pecking</hi> at his eyes: the other two <hi>ſcratching</hi> his <hi>face.</hi> Theſe were unkind Chickens; unnaturall Eaglets; yet many ſuch <hi>Bran<g ref="char:EOLhyphen"/>chers</hi> may we find ayring neare moſt of our Neſts. But <hi>heavy judgements</hi> are reſerv'd for ſuch <hi>Unnaturalists.</hi> The <hi>Ravens</hi> ſhall <hi>pick</hi> out their eyes; and the <hi>terrors</hi> of <hi>un<g ref="char:EOLhyphen"/>prepared ends</hi> ſhall ſurprize them. Theſe who are ſick of a Father, ſhall find ſickly comforts in the death of a Father. The <hi>Inheritance</hi> which their Nimrod-deſires hunted after with ſuch greedineſſe, ſhall but ſerve for fuell to increaſe their unhappineſſe. As their wiſhes mur<g ref="char:EOLhyphen"/>dred him living, ſo ſhall his ill-requited memory pre<g ref="char:EOLhyphen"/>ſent to their profuſe houres, and miſ-ſpent Eſtates,
+<pb n="11" facs="tcp:35595:8"/> Myriads of miſeries at their dying.</p>
+            <p>But admit (which were rare to finde) that theſe <hi>longing Heires</hi> ſhould be followers of their Fathers ſteps, in a thriving providence: yet muſt they expect from their children in offices of Obedience a juſt Acquittance.</p>
+            <p>Such Parents ſeldome God bleſſeth with obedient Children; who neglected the duty they ought to their Parents when they were Children. <note place="margin">Illud expectan<g ref="char:EOLhyphen"/>dum eſt à nobis, quod praeſtitimus noſtris. <hi>Paterculus.</hi>
+               </note> So as, whether theſe undutifull ones be Frugall or Prodigall, Miſery, through a loathed ſatiety; or Poverty, through their profuſe ſo<g ref="char:EOLhyphen"/>ciety, have ever accompanyed their Evening. Yea, I have known ſome of theſe, who either touch'd with remorſe of Conſcience, or driven to want through their own licentiouſneſs, could have wiſht to have digg'd up their contemned Fathers with their nayles, ſo they might have injoy'd them: For all the diſ-eſteem which their neglectfull youth, while they were living expreſt unto them: or poyſonous diſgraces their unmanag'd courſe aſperſed on them: Yet was it no <hi>Filiall Zeale,</hi> but an <hi>Experimentall want</hi> that wrought upon them this courſe.</p>
+            <p>O the deceiving hopes of a diſconſolate Father! What reſtleſſe cares, anxious hopes, and ſolicitous feares hourely awake him, ſleeping; and daily incounter him, waking! He neglects no time to increaſe his ſtore; no wayes unſought to improve his eſtate. He eates the bread of carefulneſſe, and apportions himſelfe the very leaſt of all his Family, to raiſe an higher foundation to his poſterity. O ſandie ground-work! What an im<g ref="char:EOLhyphen"/>prudent houſe-holder is He, who ſhares in his owne, with the leaſt and loweſt of his Meniey? to beget <hi>afflicti<g ref="char:EOLhyphen"/>on</hi> to himſelfe; <hi>diſ-affection</hi> in others! Where <hi>Large</hi>
+               <pb n="12" facs="tcp:35595:9"/> 
+               <hi>Inventories</hi> commonly make <hi>forgetfull Executors; looſe Succeſſors!</hi> Poore indiſpoſed providence! Be theſe the fruites of broken ſleepes; and needy repaſts? Is it wiſ<g ref="char:EOLhyphen"/>dom to lay up his treaſure in the hopes of thoſe, who mourne for nothing more then to be their owne Trea<g ref="char:EOLhyphen"/>ſurers; by diſſeiſing a too induſtrious Father of his care and coyne together? O what a joyfull ſound does the <hi>Paſsing Bell</hi> afford to a thirſty Prodigall! who, long be<g ref="char:EOLhyphen"/>fore the crawling worme has either untwiſted his Shrowd: or thoſe funerall flowers which ſtuck his Corpſe, loſt their colour; has buried the memory of his indulgent Father in thoſe <hi>healthleſſe Healths</hi> of laſting Oblivion. <note place="margin">In what ac<g ref="char:EOLhyphen"/>count are we to hold thoſe houres, that are incountred with ſuch con<g ref="char:EOLhyphen"/>fluence of griefs? Peruſe Annals of Time, and in what did Old <hi>Priam</hi> exceed young <hi>Tro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lus,</hi> but in years, teares, calami<g ref="char:EOLhyphen"/>tous Children, and numerous cares?</note> Let the fooliſh Father, whoſe penurious life has bene wholly beſtow'd on <hi>Sparing,</hi> to give more length of line to his Succeſſours <hi>Spending;</hi> caſt up his Accounts, and examine what profit or parentall comfort his nightly cares and watchfull indeavours have returned him. Me<g ref="char:EOLhyphen"/>thinks I ſee him turne over leafe after leafe, and ac<g ref="char:EOLhyphen"/>compt day after day: yet he findes nothing worthy his care, nor what may anſwer his toyle.</p>
+            <p>Yet take this notice, as an Addition to his folly. Though He found nothing all his time, that might pro<g ref="char:EOLhyphen"/>miſe him leaſt aſſurance in them of performing his Be<g ref="char:EOLhyphen"/>queſt; yet ſuch is his groundleſſe confidence; as He re<g ref="char:EOLhyphen"/>commends to their care, what he forgot to doe in his life. Sundry <hi>pious workes,</hi> which eyther his affection, ſo cloſely cemented to the World, would not ſuffer him to performe: Or the fooliſh hope He had in his Heire, made him transferre that Worke to his truſt. But the careleſſe Unthrift makes his late Fathers Charge, the leaſt of his Care: He findes in himſelfe ſuch liberty of con<g ref="char:EOLhyphen"/>ſcience, as He can diſpence with the Execution of ſuch <hi>Be<g ref="char:EOLhyphen"/>queſts;</hi>
+               <pb n="13" facs="tcp:35595:9"/> He findes all that his Father left him, little enough for his owne Share; as He hopes within ſhort time the World will ſhew it. Memorialls of dead Fa<g ref="char:EOLhyphen"/>thers are to be buried with them. Thus diſcharge ſuch as theſe their truſt to purpoſe. Legacies and Pious Of<g ref="char:EOLhyphen"/>fices muſt become their owne <hi>Truſtees.</hi> Their <hi>Teſtator</hi> is committed to Earth: whoſe memory accompanies his Obſequies; Both ſubject to one Fate: And depo<g ref="char:EOLhyphen"/>ſited in one Urne. And thoſe who ſurvive Him, hold him rightly ſerv'd. What mad Man is He, that will in<g ref="char:EOLhyphen"/>truſt Him, at his Death; who never anſwered his truſt in his life? <note place="margin">Expectance begets obedi<g ref="char:EOLhyphen"/>ence: Injoy<g ref="char:EOLhyphen"/>ment ſhutts up affection in an Act of Oblivion.</note> If <hi>hopes</hi> make not a Child Obedient: <hi>Poſ<g ref="char:EOLhyphen"/>ſeſsion</hi> of what He hoped for, will hardly doe it. O ſee, to what <hi>ſhadows</hi> this Worldlings ſubſtance is reduced! Before He returne well to <hi>Earth,</hi> all his early and late providence is reſolved to <hi>Ayre.</hi> He has bid the World a long <hi>farewell;</hi> which makes his jolly Spend-thrift <hi>farewell</hi> and deliciouſly in it. Thoſe <hi>Conſorts</hi> which his Father hated, muſt be his onely <hi>Copeſmates.</hi> In their <hi>Careere,</hi> they ſing a merry <hi>Requiem</hi> for his Soule, whoſe <hi>Reſt</hi> is the leaſt of their Care. His interment gives inter<g ref="char:EOLhyphen"/>tainment to thoſe, who will never leave his debaucht Heire, till his Eſtate has left him. He has made <hi>choiſe</hi> of them, and for a World he would not <hi>change</hi> them; whoſe onely Office it is, to contrive the way how he may gallantly ſpend: as it is His, to finde a purſe how to de<g ref="char:EOLhyphen"/>fray the charge of their Projects.</p>
+            <p>Thus muſt an aged providence be thawed and to no<g ref="char:EOLhyphen"/>thing diſſolved by a Youthfull expence. Were the length of his dayes proportion'd to his expence, his ex<g ref="char:EOLhyphen"/>hauſted <hi>State,</hi> before he ſaw halfe of his dayes, would be contracted to a <hi>Scrip:</hi> or his <hi>Proſpect,</hi> through his nu<g ref="char:EOLhyphen"/>merous
+<pb n="14" facs="tcp:35595:10"/> ingagements, confined to a <hi>Grate.</hi> But Death is many times ſo kinde, as to impoſe a period to his mi<g ref="char:EOLhyphen"/>ſeries: and to end him, before they wholly make an end of him. But be his dayes long or ſhort, his <hi>memory</hi> cannot chuſe but <hi>rot,</hi> being a <hi>branch</hi> ſhred and cut off from the <hi>root.</hi> It is a <hi>promiſe,</hi> and He is faithfull in his <hi>performance</hi> that makes it: <hi>Length of dayes</hi> ſhall be un<g ref="char:EOLhyphen"/>to him, who <hi>Honours</hi> his <hi>Parents:</hi> which implyes an <hi>Abridgment</hi> to his, who <hi>diſhonours</hi> them. The <hi>wicked</hi> and <hi>deceitfull</hi> man ſhall not live to ſee halfe his Dayes. And ſhew me a more deceitfull Liver, then He who deceives the truſt of a Father! If <hi>Obedience</hi> be bet<g ref="char:EOLhyphen"/>ter then <hi>Sacrifice;</hi> no doubt, but <hi>Diſobedience</hi> is the <hi>Sa<g ref="char:EOLhyphen"/>crifice</hi> of <hi>Fooles.</hi> It ſeemes he deſires to have his dayes ſhort, who by his Rebellious courſe, labours to ſhorten his Fathers dayes. The foundation of his hopes cannot ſtand. But <hi>future judgements</hi> are ſtrangers to his thoughts. So he may injoy the <hi>pleaſures</hi> of <hi>Sinne</hi> for a ſeaſon; E<g ref="char:EOLhyphen"/>ternity is quite razed out of the Calendar of his me<g ref="char:EOLhyphen"/>mory.</p>
+            <p>He holds the <hi>Pellican</hi> a good <hi>naturall Mother</hi> in feed<g ref="char:EOLhyphen"/>ing her <hi>young-ones</hi> to her owne ruine: but he holds that <hi>Child</hi> a meere <hi>Naturall,</hi> that would requite that parentall favour to his owne danger. Whence it is, that He ac<g ref="char:EOLhyphen"/>counts no Bird more fooliſh then the <hi>Storke,</hi> in carrying his aged Parents upon his Wings: and providing for them, whoſe unweldy condition cannot purvey for themſelves. I have often obſerv'd it, nor could I well cre<g ref="char:EOLhyphen"/>dit what my eyes had ſeene: how <hi>Nature</hi> could poſſibly become ſuch a <hi>Changeling,</hi> as to wiſh <hi>no being,</hi> to thoſe from whom they had their <hi>being.</hi> Many <hi>Children</hi> have found their <hi>Parents</hi> to be their beſt <hi>Stewards:</hi> yet rather
+<pb n="15" facs="tcp:35595:10"/> then be troubled with ſuch <hi>Diſpenſers,</hi> they could wiſh that care ſupplyed by <hi>Hyrelings.</hi>
+            </p>
+            <p>There was an antient Decree, that He who neglected his Parents in their age, ſhould reap no benefit by their Death. <note place="margin">Var de Antiq. Rom. Viget. Macrob. Valer. Max. Rhodolph. Agric. de Leg. Nat.</note> Now, how many Children ſhould we finde diſinherited, were this Law to all intents and purpoſes executed? That Law, no doubt, was well intended, if it were but ordain'd onely to preſerve in their Progeny, pretenſes of Duty. It is hope of preferment, that begets in moſt Children this <hi>Shady Semblance</hi> of <hi>Obedience.</hi> Take away this <hi>Hope,</hi> and you ſhall finde an icy <hi>Zeale.</hi> Broad-ſpred <hi>Sycamours,</hi> all for <hi>Shadow;</hi> none for <hi>Fruit.</hi> Were it not then juſt, for <hi>Parents</hi> to adopt <hi>Strangers</hi> their <hi>Heyres;</hi> ſeeing thoſe who ſhould be their <hi>Lineall Heyres,</hi> make themſelves ſuch <hi>Strangers</hi> to their cares? But the heart of a Father is of a more waxen and indulgent tem<g ref="char:EOLhyphen"/>per: ſo blind has affection made him, as He gene<g ref="char:EOLhyphen"/>rally values thoſe moſt, whoſe actions deſerve leaſt. Theſe he tenderly huggs, who would follow his Hearſe with dry eyes: and who in the height of his extreames, will rather <hi>Prey</hi> on him, then <hi>Pray</hi> for him. So apt is <hi>Nature</hi> to deprave judgement: and to play the <hi>Impoſtor</hi> with her <hi>Multiplying Glaſſe;</hi> preſenting more comforts in the worſt, then can poſſibly appeare in the beſt. When affection has forfeited her diſcretion, and loſt the eyes of her judgement by miſtakes; Vertues ſeeme Vices: and Vices Vertues. It were wiſdome then for <hi>Nature</hi> to ſuſpend her eyes: and to fixe them with an imparti<g ref="char:EOLhyphen"/>all reflexe both on merit and immerit. This will beget that emulation in goodneſſe, which Children before knew not, at leaſt purſude not; becauſe they were by their Parents undiſtinguiſhed or unrewarded. But little
+<pb n="16" facs="tcp:35595:11"/> need we to preſſe this Argument: Experience tells <hi>you</hi> whom I ſhould admoniſh; that a <hi>Father</hi> is more ready to give, then a <hi>Child</hi> to <hi>requite.</hi> Be it your care to reteine, in this my laſt <hi>Farewell,</hi> theſe <hi>finall Directions;</hi> which may prove as uſefull to you, as any Portion I can be<g ref="char:EOLhyphen"/>queath you.</p>
+            <p>Your youth inform'd me, that your <hi>Diſpoſitions</hi> were different; which caus'd me to beſtow you ſeverall waies. For <hi>Philoſophy</hi> had told me, and <hi>Experience</hi> taught me, that <hi>Nature</hi> could not be <hi>forc'd.</hi> Yet have I highly tax'd my <hi>Indulgence</hi> for giving ſuch way to the freedome of youth. Some of you pretended for <hi>Armes;</hi> others for <hi>Arts.</hi> You, who were for <hi>Armes</hi> had got ſuch a <hi>Surfet</hi> of the <hi>Schoole,</hi> as your Plea was incapacity to your Booke; by reaſon of your want of memory, or impregnancy, or ſome other innate defect. So as, your deſire was to in<g ref="char:EOLhyphen"/>liſt your ſelves, after the garbe of theſe ſtirring times, amongſt <hi>Souldiers</hi> of <hi>Fortune;</hi> to ingage your perſons for the <hi>Campe:</hi> but (as I conceited it) only to diſ-ingage your ſelves of the <hi>Whip.</hi> And I aſſented to it: and ſome progreſſion have you made in it, without much loſſe or increment of Honour.</p>
+            <p>March along then with this advice; In the firſt place, be no leſſe <hi>Cautious</hi> then <hi>Conſcientious</hi> of the <hi>Grounds</hi> for which you fight. Be He never ſo valiant, if the <hi>Cauſe</hi> be nought for which he ingageth; it is <hi>Raſhneſſe</hi> and no <hi>Valour;</hi> For win He or loſe He, the iſſue redounds ever to his Diſhonour. <note place="margin">Sub quocunque Regimine critis conſtituti, non reluctantes, ſed integrè ſubditi. Albanus. Arnobius. Evander. Euthymius.</note> Allegeance is a juſt ground; in what <hi>Orbe</hi> ſoever, the <hi>State</hi> be <hi>Spheared:</hi> though in theſe dayes unfortunately mannaged. But Actions are not to derive their equity from event or ſucceſſe: Nor to receive their Cenſure from the loſſe of a Field.
+<pb n="17" facs="tcp:35595:11"/> Fortune is not alwaies Vertues Shadow. <note place="margin">If this laſt de<g ref="char:EOLhyphen"/>ſigne of theirs bearing ſuch a face of Loyal<g ref="char:EOLhyphen"/>ty, redeeme their fame, it is an unex<g ref="char:EOLhyphen"/>ſpected recove<g ref="char:EOLhyphen"/>ry.</note> 
+               <hi>England</hi> can<g ref="char:EOLhyphen"/>not be more in Gods eye, then <hi>Iudaea:</hi> and yet <hi>Infidels</hi> are become Lords of that <hi>Seat,</hi> where our Heavenly Lord and his Apoſtles trode.</p>
+            <p>Let me adviſe you; be no <hi>Scotch</hi> pretenders; in making <hi>Religion</hi> your colour, when <hi>Plunder</hi> is your aime. Though their booties inrich them, &amp; their Newtrall Fa<g ref="char:EOLhyphen"/>ctions ſeemingly ſecure them, They muſt come off with loſſe, before the maine Battaile determine the Quarrell.</p>
+            <p>
+               <note place="margin">☞</note> Make not ſuch uſe of your ſtrength, as injuriouſly to intrench upon an others State. Doe no man wrong; When the <hi>Sword</hi> is in your <hi>hand,</hi> let <hi>Grace</hi> be in your <hi>heart.</hi> Let that daring inſolence, ſo familiar with a Soul<g ref="char:EOLhyphen"/>dier, be to you an uncivill Stranger. Walke in the wayes of Innocency: and end theſe dayes of your warfare in it. Preferre a glorious Death, before a vicious life. Better is it to dye with an <hi>Abel,</hi> then to live a <hi>Cain.</hi>
+            </p>
+            <p>Be it your prime care every Morne to make your peace with God; Suffer not your <hi>inward Enemy</hi> to have any advantage of you: Whatſoever your <hi>Outward</hi> have. Though the Bullet make no diſtinction betwixt a Prince and a Common Souldier: Thoſe <hi>Chriſtian Memori<g ref="char:EOLhyphen"/>alls</hi> recommended to you in your youth, ſhould better prepare you then to fall like <hi>Beaſts,</hi> without remem<g ref="char:EOLhyphen"/>bring your future condition.</p>
+            <p>The Marriner and Souldier ought of all others to be ever provided of this Spirituall Armour. Three inches onely diſtanceth the One from Death: and a Paper<g ref="char:EOLhyphen"/>ſconce the Other. Of all Others, every houre may be your laſt: Be it then your conſtant Taske, in the Ser<g ref="char:EOLhyphen"/>vice of your Campe, to make Heaven your Care. March after this manner, and the Lord of Hoaſts will goe a<g ref="char:EOLhyphen"/>long
+<pb n="18" facs="tcp:35595:12"/> with you: and improve theſe actions of valour to your Fame, His Honour.</p>
+            <p>Now for <hi>you,</hi> who are for <hi>Arts.</hi> As it has beene my care to ſeaſon you in all Sciences, Humane and Divine: be it your care not to invert them, but rank them accor<g ref="char:EOLhyphen"/>ding to their Degrees. Imploy your <hi>Humane</hi> as <hi>Hand<g ref="char:EOLhyphen"/>maids;</hi> your <hi>Divine</hi> as their <hi>Miſtreſſes.</hi> Now, <hi>Religion</hi> muſt be the foundation; which being ſtrengthned and cheriſhed by that ſweetly-diſtilling influence of <hi>Devo<g ref="char:EOLhyphen"/>tion,</hi> is not to conſiſt onely in Speculative knowledge, but Proficiency of Action.</p>
+            <p>For <hi>Religion,</hi> being the Myſtery of our Salvation, is a practicall Syllogiſme, whoſe premiſſes goe for nothing, if there be not the active concluſion of well-doing. The promiſe is not made to Him that <hi>knowes this,</hi> but to Him that <hi>does this. Doe this and thou ſhalt live.</hi>
+            </p>
+            <p>In the expence of your houres, be carefull how you beſtow your ſelves in them: Account theſe ſo pretious, as the whole world cannot reduce nor recall one Minute of them. Have not your eye on the <hi>Glaſſe</hi> how it runnes: no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the <hi>Clock</hi> what it ſtrikes. Contemplation ſhould be more fixt, then to be ſo eaſily diſtracted. He, who in his <hi>Study</hi> gives more eare to the houre, then thoſe lines he reades; muſt give me leave to hold him ſuch a profi<g ref="char:EOLhyphen"/>cient, as He is rather to be accounted a <hi>Truant</hi> then a <hi>Stu<g ref="char:EOLhyphen"/>dent.</hi> Make every Evening, an Accomptant of the fore<g ref="char:EOLhyphen"/>ſpent day. Your age is not to be reckoned by <hi>yeares</hi> but <hi>houres:</hi> Many are young in houres, who are old in yeares. Beſtow your time in <hi>Learning</hi> to your <hi>profit:</hi> but in<g ref="char:EOLhyphen"/>tertaine ſuch <hi>humility</hi> in your <hi>improvement,</hi> as with <hi>mo<g ref="char:EOLhyphen"/>deſty</hi> to acknowledge it. The <hi>Zone</hi> where you live admits no <hi>Solſtice:</hi> your <hi>Academick Studies</hi> hold correſpondence
+<pb n="19" facs="tcp:35595:12"/> with no <hi>Station.</hi> You muſt either be <hi>Proficients</hi> or <hi>De<g ref="char:EOLhyphen"/>ficients.</hi> In one word, make God the Beginning and Ending of all your Labours: and then with a cheerfull Evening will He crown all your Endeavours.</p>
+            <p>Now to you, my <hi>Daughters,</hi> whoſe choiſeſt Conſorts ſhould be Modeſty, Humility and pious Induſtry; though your <hi>Mother</hi> were taken from you, before She could well informe you: or your ſelves capable of what She might recommend unto you; yet are you ſupplyed in her want, by One; who, though a <hi>Step-Mother,</hi> (a <hi>Name</hi> imploying an harſh <hi>Nature)</hi> yet be her <hi>Steps</hi> ſo imitable, that if you walke in them, they may ſufficiently enable you by Her example. Doe not then <hi>Steppe</hi> over Her with an awleſſe reverence: But obſerve her Directions as uſefull Leſſons, for the knowledge of your Selves: and performance of thoſe Officers, wherein you ſtand obliged to God and the World. I ſhall be ſparing in ſpeaking much to you, being ſo confident of Her care with whom you are: and to whoſe Education and Tuition next under God, I commend you; as She will never deſert you, unleſſe you deſert your ſelves.</p>
+            <p>Now the bleſſing of God, and a poore languiſhing, but truly-loving Father be among you: and direct you in all your waies and works, to His honour who made you.</p>
+            <epigraph>
+               <q>
+                  <bibl>PROV. 4. 1.</bibl>
+                  <p>Heare ye Children, the inſtructions of a Father, and attend to know underſtanding.</p>
+               </q>
+            </epigraph>
+         </div>
+         <div type="poem">
+            <pb n="20" facs="tcp:35595:13"/>
+            <head>DEATHS DREAME.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>Aſt night, me thought, I ſaw a <hi>Great-man</hi> dye,</l>
+               <l>And none was in the Roome but He and I.</l>
+               <l>His vitall parts had made their Long retreat,</l>
+               <l>Eyes Dim, Voice Hoarſe, his Pulſe no ſtrength to beat.</l>
+               <l>Yet like two <hi>antient-friends</hi> long time acquainted,</l>
+               <l>His <hi>Soule,</hi> me thought, would hardly be contented</l>
+               <l>To leave the <hi>Body:</hi> or the Fleſh her Gueſt,</l>
+               <l>Her living Soule, without a ſharpe conteſt.</l>
+               <l>But fruitleſſe was this Conflict; They muſt yeeld</l>
+               <l>To <hi>Him</hi> who ſtill came Conquerour from the field:</l>
+               <l>And being ready to ſurprize his Fort,</l>
+               <l>It mov'd me to adviſe Him in this ſort.</l>
+               <l>Let no weake hopes of longer life deceave you,</l>
+               <l>" You ſee how your Phyſitians meane to leave you;</l>
+               <l>" Whoſe choice Receipts, Apothecarry Bills,</l>
+               <l>" At ſuch exceſsive Charge their Patients kills;</l>
+               <l>" Are left to your <hi>Executor</hi> to pay:</l>
+               <l>" And for their <hi>wage,</hi> not for your <hi>health</hi> they ſtay,</l>
+               <l>" For that<hi>'s</hi> paſt Cure:—Prepare then for remove</l>
+               <l>" From this poore Vale of Teares to joyes above:</l>
+               <l>" Here is a fading, there a reall bliſſe,</l>
+               <l>" Fixe then your <hi>heart,</hi> Sir, where your <hi>treaſure</hi> is.</l>
+               <l>Wherewith he ſigh'd: and ſhed a trickling teare</l>
+               <l>As if the <hi>Treaſure</hi> of his <hi>Heart</hi> lodg'd here.</l>
+               <l>Till my perſwaſions did at laſt ſo win him,</l>
+               <l>I found, me thought, a lively faith within him.</l>
+               <pb n="21" facs="tcp:35595:13"/>
+               <l>For <hi>pearled teares</hi> did his <hi>Repentance</hi> ſhow,</l>
+               <l>And <hi>Eyes</hi> the <hi>Place</hi> where He was mounting to.</l>
+               <l>Which I obſerving; " Sir, while you have ſenſe,</l>
+               <l>" Thus I Diſcours'd) diſcharge your Conſcience,</l>
+               <l>" And <hi>ſet your Houſe in Order.</hi> " FRIEND, that care</l>
+               <l>" (So He reply'd) is left unto my Heire:</l>
+               <l>" <hi>Portions, Doles, Legacies</hi> I ſhall not need</l>
+               <l>" To write; His love can my intentions reade.</l>
+               <l>" Theſe Cares are recommeded to His truſt,</l>
+               <l>" And Hee'l diſcharge them, for I hold him juſt.</l>
+               <l>" My Soule has ſude divorce 'twixt th'World and me,</l>
+               <l>" From which my thoughts ſhall henceforth ſtrangers be.</l>
+               <l>" One Onely man there is whom I could wiſh</l>
+               <l>" Might never ſhare in any State of His:</l>
+               <l>" For His hydroptick drought like thirſty ground,</l>
+               <l>" Gapes ſtill for more, the more it does abound:</l>
+               <l>" But that I may in charity depart,</l>
+               <l>" I wiſh his true Converſion with my heart.</l>
+               <l>Having my <hi>Spirituall Phyſick</hi> thus applide,</l>
+               <l>With much Compoſedneſſe me thought He dide.</l>
+            </lg>
+            <lg>
+               <l>Now HE, whom He deputed for his Heire</l>
+               <l>Appear'd ſo well diſpos'd, ſo debonaire;</l>
+               <l>As none (if Dreams may repreſent a truth)</l>
+               <l>Retein'd more ſeeds of vertue in his youth.</l>
+               <l>But as choice <hi>Plants</hi> oft periſh in their prime</l>
+               <l>While <hi>Grafts</hi> of flower growth live longer time;</l>
+               <l>So He; when thoſe pure beamelings ſhould appeare</l>
+               <l>And ſpread their beauty in their proper Spheare;</l>
+               <l>Heart-ſlaine with <hi>filial-love,</hi> as Chymiſts gather,</l>
+               <l>Within few dayes <hi>Death</hi> ſent him to his Father:</l>
+               <l>Leaving a lovely Lady here behind,</l>
+               <l>Who liv'd to weare His <hi>Picture</hi> in her mind.</l>
+               <pb n="22" facs="tcp:35595:14"/>
+               <l>—Good God, what ſtrong impreſsions <hi>Dreames</hi> receive!</l>
+               <l>Scarce were theſe two, me thought, cold in their Grave,</l>
+               <l>Or thoſe Seere Funerall Flowers their Colour loſt,</l>
+               <l>Till <hi>He</hi> ſtept in, whom th' <hi>Father</hi> feared moſt;</l>
+               <l>Claiming a title in this vaſt Eſtate</l>
+               <l>With other Three concern'd in this debate.</l>
+               <l>Which to compoſe, They were advis'd to ſhow</l>
+               <l>Their juſt pretences, which all yeelded to.</l>
+            </lg>
+            <lg>
+               <l>The <hi>place</hi> that they propos'd for this Aſſay</l>
+               <l>Was neare the <hi>Porch</hi> where thoſe two Coarſes lay;</l>
+               <l>Thoſe two indeared Ones: for never were</l>
+               <l>Syre to his Son, nor Son to Syre more deare.</l>
+               <l>Thrice did they meet, but nothing could be done;</l>
+               <l>One would have all: and others might have none.</l>
+               <l>" Earth-glude affections will admit no ſtay</l>
+               <l>" Untill their Owner be reduc'd to clay.</l>
+               <l>This made me muſe how men indu'd with reaſon</l>
+               <l>Could in a Place of Death, and ſuch a ſeaſon</l>
+               <l>Converſe with <hi>Earth</hi> ſo freely, as to plead</l>
+               <l>For <hi>their Eſtates</hi> that were ſo lately dead!</l>
+               <l>In this amaze, Thoſe Corpſe, me thought, appear'd</l>
+               <l>To their halfe Bodies, from a Statue rear'd:</l>
+               <l>Where th' <hi>Elder</hi> pale with anger ſeem'd to ſhow <note place="margin">An aſhy hue preſents Death: A fur<g ref="char:EOLhyphen"/>row'd brow an apprehenſive paſſion.</note>
+               </l>
+               <l>Both <hi>Death</hi> and <hi>Paſſion</hi> in his furrowed brow.</l>
+               <l>While th' <hi>Younger</hi> more compos'd, ſeem'd with a teare</l>
+               <l>To whiſper theſe words in his Fathers eare.</l>
+               <l>
+                  <hi>Sir,</hi> doe you heare how theſe <hi>Corrivalls</hi> fight</l>
+               <l>T'inveſt themſelves in our peculiar Right:</l>
+               <l>What projects they contrive their ends to win,</l>
+               <l>While we're forgot as if we had not bin?</l>
+               <l>Th'incenſed Father having ſadly eyde</l>
+               <l>Thoſe violent Conteſts; at laſt replyde</l>
+               <pb n="23" facs="tcp:35595:14"/>
+               <l>With a deep-ſcalding ſigh, and gaſtly groane</l>
+               <l>Breath'd frow a ſteming Urne: " Was ever moane</l>
+               <l>" Cloath'd with leſſe ſolemne rites: or funerall Beares</l>
+               <l>" Rank'd with leſſe mourning roabs and fewer teares?</l>
+               <l>" Forgot as ſoone as Earth'd! unhappy State</l>
+               <l>" To make thoſe men our Heirs whom we did hate!</l>
+               <l>After which hideous voice, their Grave ſtones ſhak't,</l>
+               <l>Whereat the Umpires fled, and I awak't.</l>
+               <l>'Twas nothing but a <hi>Dreame;</hi> and Dreams men ſay,</l>
+               <l>Expound themſelves the cleane contrary way.</l>
+               <l>But <hi>Dreams</hi> have <hi>Moralls</hi> too: and ſuch had theſe;</l>
+               <l>Expound them then, Good Readers, as you pleaſe.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="24" facs="tcp:35595:15"/>
+            <head>Deaths Doome.</head>
+            <lg>
+               <l>" <hi>Tot varias facies variis spectare dicbus</hi>
+               </l>
+               <l>" <hi>Miror, &amp; offigies fingere credo dies.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>GIlt Gull,</hi> who lin'ſt thy ſilken ſinnes with Pluſh,</l>
+               <l>And car'ſt not for thine inward man a ruſh,</l>
+               <l>Some two or three years hence, or ſuch a thing</l>
+               <l>Pye-colour'd Jay, thou in a Jayle maiſt ſing.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>MAdam,</hi> who made you with your breaſts diſplay'd,</l>
+               <l>Apiſhly trim'd, fantaſtickly array'd?</l>
+               <l>Your Purles, Purfles, Powders muſt decline,</l>
+               <l>Nought left you but a Shade, a Shroude, a Shrine.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>CHurchman,</hi> who taught you ſuch a formall dreſſe,</l>
+               <l>And to forget your maineſt buſineſſe?</l>
+               <l>Sir, when you dye; you muſt 'fore him appeare,</l>
+               <l>Will aske you what you <hi>were,</hi> not what you <hi>weare.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>LAwyer,</hi> who learn't you to abuſe the State,</l>
+               <l>And make Lawes Spider-webs by your deceit?</l>
+               <l>For all your quaint Demurres, you finde no Plee</l>
+               <l>'Gainſt the <hi>Injunction</hi> of mortalitie.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>SOuldier,</hi> who gave you Diſcipline to fight,</l>
+               <l>To right your ſelfe by taking others right?</l>
+               <l>This is not right; " He is not vertues friend,</l>
+               <l>That wrongs another for his private end.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>VIntner,</hi> who ſchool'd you to corrupt your wine,</l>
+               <l>To make mens froms ſprout like a Porcupine?</l>
+               <l>When this rich Vintage's paſt, for all your plenty,</l>
+               <l>Your <hi>Buſh</hi> ſhall be pull'd downe, your <hi>Hogshead</hi> empty.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>AUthor,</hi> who dipt your penne in <hi>Hypocrene,</hi>
+               </l>
+               <l>To gull the world with a worldly Theame,</l>
+               <l>Leave earth where you doe live, and ſtrive to love</l>
+               <l>That Sphere, where Angells may your Muſe approve,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>ACtor,</hi> returne, what are you? whence you came!</l>
+               <l>To live, luſt, loiter, pander and prophane?</l>
+               <l>This is a ſtrange <hi>vocation;</hi> ever have</l>
+               <l>Thoughts in thy <hi>Tyring-Houſe</hi> upon thy Grave.</l>
+            </lg>
+            <lg>
+               <l>But if theſe <hi>Motives</hi> will not ſerve your turne,</l>
+               <l>Heere's <hi>Mirrors</hi> for you, Scithe, Houre-glaſſe, and Urne;</l>
+               <l>Diſh up your Viands then, ſcrape up your Crummes,</l>
+               <l>For loe you where the <hi>Serjeant Majo</hi> comes!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Gull, Dame, Church, Lawyer, Souldier, Author, Actor,</hi>
+               </l>
+               <l>Are Merchandize to <hi>Fate,</hi> where Death's <hi>the</hi> Factor.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Morphuus, Urna, Rogus, Fax Clepſydra, Virga, Coronis,</hi>
+               </l>
+               <l>
+                  <hi>Singula ſunt Fati nuntia certa tui.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="25" facs="tcp:35595:15"/>
+            <head>HYMENS Golden Cenſer.</head>
+            <head type="sub">A Spirituall Spouſall.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">H</seg>Ymen</hi> unveyle thy <hi>ſacred Cenſers;</hi> let</l>
+               <l>This <hi>amorous Payre</hi> in th'pale of fancy met,</l>
+               <l>When thou haſt clos'd their Ceremoniall rite,</l>
+               <l>With Cordiall joyes &amp; wreaths be-day the night.</l>
+               <l>May Nuptiall twiſts give mutuall recompence,</l>
+               <l>And crowne their Loves with bluſhing innocence.</l>
+            </lg>
+            <lg>
+               <l>Lovely <hi>Leander,</hi> when He <hi>won</hi> the <hi>Tower</hi>
+               </l>
+               <l>Where <hi>Hero</hi> lodg'd, He could not reſt ſecure.</l>
+               <l>Feares caus'd Him forfeit freedome; while your Love</l>
+               <l>Sign'd here below, and regiſtred above</l>
+               <l>Admits no interpoſing Cloud to ſhade</l>
+               <l>Thoſe <hi>Choice Contents</hi> for which you both were made.</l>
+            </lg>
+            <lg>
+               <l>Pure tender tinder of affections flame</l>
+               <l>Crowne <hi>their</hi> joynt votes with fancy, fortune, fame,</l>
+               <l>And all that's good; that their ſtreight levell'd line</l>
+               <l>May be a <hi>Mirror</hi> to this Crooked time;</l>
+               <l>Where <hi>vice</hi> enfranchis'd ſtrutts without controule,</l>
+               <l>And <hi>vertue</hi> droops as though ſhe had no Soule.</l>
+               <l>While theſe <hi>Pure Soules</hi> march in that Regiment</l>
+               <l>Where their <hi>Reſtraint</hi> is th' Orbe of their Content.</l>
+            </lg>
+            <lg>
+               <l>If't ſeeme a Paradoxe, obſerve that tye</l>
+               <l>Which leaves love in a linked liberty.</l>
+               <l>" Bleſt Spouſall tye! which though it <hi>Captives</hi> make,</l>
+               <l>" Thoſe <hi>Bonds</hi> ſeeme eaſy for the <hi>Keepers</hi> ſake.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="26" facs="tcp:35595:16"/>
+            <head>LEDA's various Cenſure.</head>
+            <lg>
+               <l>
+                  <hi>LEda</hi> grows violent when She does heare</l>
+               <l>Any diſguſt that She has ſhowne;</l>
+               <l>And welcomes her reprover with a Teare,</l>
+               <l>For other Refuge hath ſhe none.</l>
+               <l>Streight will ſhe dye, yet knowes not why;</l>
+               <l>O what a Salve is this, ſaid I,</l>
+               <l>When Crimes begge Cures from a revenging eye!</l>
+            </lg>
+            <lg>
+               <l>Yet ſome there be hold <hi>Leda's</hi> temper ſweet,</l>
+               <l>Though native paſsions take their Courſe;</l>
+               <l>And when thoſe Chriſtall Founts with Silence meet,</l>
+               <l>They are not to be valued worſe.</l>
+               <l>For thoſe rins'd eye's clearly diſcryes</l>
+               <l>She feares thoſe foes that vertue flyes,</l>
+               <l>S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as her teares become Sinnes Sacrifice.</l>
+            </lg>
+            <lg>
+               <l>That very night She in my boſom lay,</l>
+               <l>Eyes ſhed a teare, Heart bred a Sigh;</l>
+               <l>I ask't her what ſhe ayl'd? She would not ſay,</l>
+               <l>Onely ſhe wiſh'd that Death were ny;</l>
+               <l>Wiping her eye, (poore foole,) ſaid I,</l>
+               <l>What wants thou while thy <hi>Cinna's</hi> by?</l>
+               <l>She with a ſmile replide, I will not dye.</l>
+            </lg>
+            <pb n="27" facs="tcp:35595:16"/>
+            <lg>
+               <l>Thus fancy by a ſoft remorce grew mild,</l>
+               <l>Enlivened with a Sacred heat:</l>
+               <l>And to her foe became ſo reconcil'd,</l>
+               <l>As <hi>Fancy</hi> tooke up <hi>Furies</hi> Seat.</l>
+               <l>May <hi>Hymen</hi> bring like <hi>Marriage</hi> ring</l>
+               <l>To Subjects Spouſall and their King.</l>
+               <l>Still may my <hi>Leda</hi> touch upon this String.</l>
+            </lg>
+            <lg>
+               <l>What is Complexion but a deep-lay'd dy</l>
+               <l>Upon a Clot of breathing Clay?</l>
+               <l>What is my lovely <hi>Leda,</hi> or what I</l>
+               <l>But a quick Shade, a Flower in May?</l>
+               <l>Yet if our mind be ſo combin'd</l>
+               <l>As Heaven's pure eye no Soyle can find;</l>
+               <l>
+                  <hi>Leda's</hi> in me, and I in her inſhrin'd.</l>
+               <l>—Bleſt <hi>Ordinance</hi> that votes us ſo confin'd.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>LIFES HARVEST.</head>
+            <head type="sub">Greene Fruit.</head>
+            <l>LIght-vading joyes, a fading life</l>
+            <l>Doe ever keep me Company;</l>
+            <l>Where though a <hi>Turtle</hi> be my wife,</l>
+            <l>And hopes in her poſterity,</l>
+            <l>They are in their Minority.</l>
+            <l>So as who juſtly theſe compares</l>
+            <l>May finde <hi>greene</hi> hopes, but <hi>Riper</hi> cares.</l>
+         </div>
+         <div type="poem">
+            <pb n="28" facs="tcp:35595:17" rendition="simple:additions"/>
+            <head>A precious Medall.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>Ooke on him, who was ta'ne and tide,</l>
+               <l>Was toſs'd and puſh'd to every ſide,</l>
+               <l>Firſt Deifide and then defide,</l>
+               <l>Arraign'd for thee and Crucifide.</l>
+            </lg>
+            <lg>
+               <l>A thought of theſe will humble pride,</l>
+               <l>And render thee ſo mortifide,</l>
+               <l>As no Earths loſſe ſhall thee devide</l>
+               <l>From <hi>Him</hi> who for thee liv'd and dide.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35595:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
